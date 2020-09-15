@@ -8,7 +8,7 @@
 <img src="CSC 106 banner.jpg">
         <h1> Welcome to Nikki's Programming portfolio</h1>
         <tr>
-        <th> <img src="home.png" alt="home"></th>
+        <th> <a herf=""><img src="home.png" alt="home"></a></th>
         <th> <img src="javascripts.png" alt="javascripts"></th>
         <th> <img src="apps.png" alt="apps"></th>
         <th> <img src="about_me.png" alt="about me"></th>
