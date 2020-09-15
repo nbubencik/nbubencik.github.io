@@ -6,8 +6,16 @@
 </head>
 <body> 
 <img src="CSC 106 banner.jpg">
-<h1> My Javascript </h1>
+        <tr>
+        <th> <img src="home.png" alt="home"></th>
+        <th> <img src="javascripts.png" alt="javascripts"></th>
+        <th> <img src="apps.png" alt="apps"></th>
+        <th> <img src="about_me.png" alt="about me"></th>
+        </tr>
+        <p> pargraph abput Website need to do this</p>
+ <h1> My Javascript </h1>
 Back to <a href="index.html> home page </a>
 
+        
 </body>
 </html>
