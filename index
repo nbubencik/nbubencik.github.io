@@ -7,11 +7,11 @@
     <body>
 <img src="CSC 106 banner.jpg">
         <h1> Welcome to Nikki's Programming portfolio</h1>
-        <tr>
-        <th> <a href="https://nbubencik.github.io/index""><img src="home.png" alt="home"></a></th>
-        <th> <a href="https://nbubencik.github.io/javascript"><img src="javascripts.png" alt="javascripts"></a></th>
-        <th> <a href="https://nbubencik.github.io/apps"><img src="apps.png" alt="apps"></th>
-        <th> <a href="https://nbubencik.github.io/about me"><img src="about_me.png" alt="about me"></a></th>
+         <tr>
+        <th> <a href="index.html"><img src="home.png" alt="home"></a></th>
+        <th> <a href="javascript.html"><img src="javascripts.png" alt="javascripts"></a></th>
+        <th> <a href="apps.html"><img src="apps.png" alt="apps"></th>
+        <th> <a href="about_me.html"><img src="about_me.png" alt="about me"></a></th>
         </tr>
         <p> pargraph about Website need to do this</p>
         
